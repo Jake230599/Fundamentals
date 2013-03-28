@@ -5,3 +5,4 @@ A compilation of many commands to aid admins when running and controlling server
 
 Authors:
 - Jake230599
+- Silver_Birch
